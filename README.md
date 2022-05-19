@@ -1,2 +1,2 @@
 # 1-Next.js
-My Fist Next.js website
+My First Next.js website
